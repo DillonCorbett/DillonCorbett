@@ -6,6 +6,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/noles498/configure-active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/noles498/azure-network-protocols)
   - [osTicket (Help Desk Ticketing System): Ticket Lifecycle Examples](https://github.com/noles498/ticket-lifecycles)
+- <b>Penn State University Senior Capstone Project</b>
+  - [PlannedIt.io Planning Application](https://github.com/noles498/capstone_project)
 
 <h2>Connect with me:</h2>
 
