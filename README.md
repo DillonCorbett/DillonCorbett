@@ -9,8 +9,3 @@
 - <b>Penn State University Senior Capstone Project</b>
   - [PlannedIt.io Planning Application](https://github.com/noles498/capstone_project)
 
-<h2>Connect with me:</h2>
-
-[<img align="left" alt="Dillon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/dilloncorbett
